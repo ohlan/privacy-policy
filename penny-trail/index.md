@@ -1,4 +1,4 @@
-# PennyTrail Privacy Policy
+# Penny Trail Privacy Policy
 
 Effective date: May 23, 2026
 
