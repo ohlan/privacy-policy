@@ -1,2 +1,3 @@
-# privacy-policy
-Repo for hosting privacy policy
+# App Policies
+
+- [Expense Tracker Privacy Policy](./expense-tracker/)
