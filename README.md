@@ -1,3 +1,3 @@
 # App Policies
 
-- [Expense Tracker Privacy Policy](./expense-tracker/)
+- [Expense Tracker Privacy Policy](./penny-trail/)
